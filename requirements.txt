@@ -1,0 +1,14 @@
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+dash-table
+Flask
+Flask-Compress
+future
+gunicorn
+numpy
+pandas
+plotly
+datetime
+python-dateutil
