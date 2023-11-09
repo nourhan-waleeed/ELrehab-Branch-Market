@@ -1,0 +1,54 @@
+.banner-parent{
+    font-family: 'Arial, sans-serif';
+    padding: '5px'; 
+    text-align : 'right';
+    font-size: '20px';
+    background-color: rgb(250, 247, 247);
+    color: rgb(2, 2, 2);
+
+
+}
+
+.banner {
+    height: 75px;
+    margin: 0px -20px 10px;
+    background-color: rgb(241, 90, 9);
+    border-radius: 2px;
+    /*text-align: center;*/
+}
+.banner2 {
+    height: 75px;
+    margin: 0px -20px 10px;
+    background-color: rgb(241, 90, 9);
+    border-radius: 2px;
+    /*text-align: center;*/
+}
+
+.banner h2 {
+    color: white;
+    padding-top: 5px;
+    text-align: right; /* Center the text horizontally within the .banner */
+    padding-right: 100px; /* Add right padding to move the text to the right */
+}
+
+.banner img {
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+}
+
+.custom-radio{
+display: 'flex';
+flex-direction: 'row';
+background-color: rgb(241, 90, 9);
+
+}
+.custom-div{
+
+ background-color: rgb(241, 90, 9); /* Set the background color to orange */
+    }
+/* styles.css */
+.white-text-dropdown {
+    color: white;
+}
