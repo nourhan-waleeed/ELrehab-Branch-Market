@@ -49,6 +49,6 @@ background-color: rgb(241, 90, 9);
  background-color: rgb(241, 90, 9); /* Set the background color to orange */
     }
 /* styles.css */
-.white-text-dropdown {
-    color: white;
+.black-text-dropdown {
+    color: black;
 }
