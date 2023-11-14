@@ -1,7 +1,6 @@
 # Elrehab Branch Market
 dashboard using dash plotly and deploy it on heroku 
-https://fathallah-elrehab-branch23-9817ed248ed3.herokuapp.com/
-
+https://elrehab788-fathallah-f034065f8442.herokuapp.com/
 heroku steps:
 
 1) open the terminal, cd folder_location
